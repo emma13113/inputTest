@@ -1,10 +1,10 @@
 {
-  "name": "graph",
-  "widgetName": "Graph",
+  "name": "inputTest",
+  "widgetName": "inputTest",
   "version": "1.2.0",
   "description": "My widget description",
   "packagePath": "mendixcn",
-  "author": "wengao.liu@siemens.com",
+  "author": "lu.chen",
   "dependencies": {
     "ahooks": "^3.3.10",
     "classnames": "^2.2.6"
